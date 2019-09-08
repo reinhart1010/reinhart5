@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Welcome to Reinhart5
 
-You can use the [editor on GitHub](https://github.com/reinhart1010/reinhart5/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Reinhart5 is a collection of videos showcasing works and discussions produced under 5 minutes. Most of them are spoken either in English or Indonesian language.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+These videos are available on:
++ [Dailymotion](https://www.dailymotion.com/)
++ [MeTube](https://www.metube.id/)
++ [Vidio](https://www.vidio.com/)
++ [YouTube](https://www.youtube.com/)
 
-### Markdown
+Each post on this blog sequentially selects one of the above sources for channel promotion.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/reinhart1010/reinhart5/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+As of now, there are no plans of publishing these content to:
++ [BINUS TV](http://www.binus.tv/) (BINUS TV content are [actually served on YouTube](https://www.youtube.com/user/ChannelBINUSTV))
++ [MediaGoblin](https://mediagoblin.org/) (Undecided content license)
++ [Mixer](https://mixer.com/) (Less appropriate user base)
++ [PeerTube](https://joinpeertube.org/) (Undecided content license)
++ [Twitch](https://www.twitch.tv/) (Less appropriate user base)
++ [Vimeo](https://www.vimeo.com/) (Blocked by Indonesian government)
