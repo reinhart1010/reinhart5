@@ -1,6 +1,7 @@
 title: "Reinhart5"
 description: "Discussing things under 5 minutes"
 permalink: "/videos/:title"
+destination: ./_posts
 url: https://reinhart1010.github.io/reinhart5
 relative_permalinks: false
 
