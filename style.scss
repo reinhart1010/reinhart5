@@ -7,6 +7,8 @@
 
 @import "reset";
 @import "variables";
+@import url('https://rsms.me/inter/inter.css');
+@import url('https://fonts.googleapis.com/css?family=Fira+Code:400,700|Literata:400,400i,700,700i&display=swap');
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -19,7 +21,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4 $sans;
   color: $darkGray;
 }
 
@@ -31,7 +33,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $sans;
   color: $darkerGray;
   font-weight: bold;
 
@@ -75,6 +77,10 @@ a {
   &:hover, &:active {
     color: $blue;
   }
+}
+
+pre, code {
+  font-family: $mono
 }
 
 ul, ol {
@@ -194,7 +200,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: $sans;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -213,7 +219,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: $sans;
   font-size: 18px;
 
   @include mobile {
