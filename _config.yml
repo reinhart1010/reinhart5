@@ -1,1 +1,8 @@
+title: "Reinhart5"
+description: "Discussing things under 5 minutes"
+permalink: "/videos/:title"
+url: https://reinhart1010.github.io/reinhart5
+relative_permalinks: false
+
+markdown: kramdown
 remote_theme: reinhart1010/cayman
