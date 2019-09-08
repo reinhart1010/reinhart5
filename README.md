@@ -1,4 +1,5 @@
-# Welcome to Reinhart5
+# Reinhart5
+## Welcome to Reinhart5
 
 Reinhart5 is a collection of videos showcasing works and discussions produced under 5 minutes. Most of them are spoken either in English or Indonesian language.
 
